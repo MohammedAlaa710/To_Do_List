@@ -49,4 +49,3 @@ export class TaskslistComponent {
     this.Tasks[index].isCompleted= !this.Tasks[index].isCompleted;
   }
 }
-//abl el ta8yer mn date l string
